@@ -1,1 +1,6 @@
-# SDLC
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting and understanding user needs is crucial to developing a successful application. I do this by communicating with stakeholders and making sure there are clearly defined user requirements. Creating user stories helps gauge what users are expecting from a product and helps revolve the project around their requirements.
+# How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+I approach developing programs with a clear idea of what the expected outcome is. It’s important to understand the criteria that the program needs to meet. I hope to incorporate agile processes such as collaboration and flexibility into my future development work. Throughout the SNHU Travel project during this course, I saw how adaptable to change the agile approach is. I think that is a strong aspect of the methodology that I hope to incorporate in my future work.
+# What does it mean to be a good team member in software development?
+A good team member provides honest feedback and openly communicates with their team. They hold themselves accountable and encourage collaboration. They motivate themselves and the team to work hard on the project, and ask for help or clarification when needed. 
